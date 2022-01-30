@@ -14,9 +14,9 @@ The Student or Player, can join the game and attempt the quiz, for each question
 
 
 ## Technologies Used
-    - Laravel
-    - Tailwindcss
-    - PostgreSQL
+- Laravel
+- Tailwindcss
+- PostgreSQL
     
 
 
